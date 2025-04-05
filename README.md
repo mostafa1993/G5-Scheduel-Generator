@@ -20,7 +20,7 @@ This tool helps you create and manage learning schedules based on the G5 spaced 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/g5.git
+   git clone https://github.com/mostafa1993/g5.git
    cd g5
    ```
 
@@ -33,7 +33,7 @@ This tool helps you create and manage learning schedules based on the G5 spaced 
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/g5.git
+   git clone https://github.com/mostafa1993/g5.git
    cd g5
    ```
 
